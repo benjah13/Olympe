@@ -9,7 +9,7 @@ public class SolrParameters {
 	public final int port = 8983;
 	public final String localHost = "localhost:";
 	public final String queryWord = "GET";
-	public final String searchDirectory = "/Users/Ben/Desktop/json/";
+	public final String searchDirectory = "/Users/Ben/eclipse-workspace/Olympe/json/";
 	public final String extension = ".json";
 	
 	public final String queryCore = "/solr/employee/select?";
