@@ -21,6 +21,6 @@ public class Employee {
     private String expertLangs;
     private String educationTitle;
     private String educationSchool;
-    private Integer educationYear;
-    private Integer seniority;
+    private Long educationYear;
+    private Long seniority;
 }
